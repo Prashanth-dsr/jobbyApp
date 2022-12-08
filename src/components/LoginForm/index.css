@@ -1,0 +1,53 @@
+.background {
+  background-color: #000000;
+  color: #ffffff;
+  height: 100vh;
+}
+.centering {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-form {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+}
+.website-logo {
+  height: 15%;
+  width: 60%;
+  align-self: center;
+  margin-bottom: 10%;
+}
+.label-style {
+  font-size: 10px;
+  margin: 15px 0 5px 0;
+}
+.input-style {
+  background-color: #272727;
+  border: solid 1px #64748b;
+  border-radius: 3px;
+  padding: 4px;
+}
+::placeholder {
+  color: #64748b;
+  opacity: 0.5;
+  font-size: 8px;
+}
+.btn {
+  background-color: #4f46e5;
+  font-size: 8px;
+  border-style: none;
+  border-radius: 6px;
+  padding: 8px 20px 8px 20px;
+  color: #ffffff;
+  margin-top: 10%;
+}
+.error-msg {
+  color: red;
+  font-size: 12px;
+}

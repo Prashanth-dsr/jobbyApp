@@ -1,0 +1,29 @@
+.filter-group {
+  margin-right: 10px;
+}
+.profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  border-radius: 15px;
+  color: black;
+  padding: 15px;
+  width: 300px;
+}
+.profile-img {
+  height: 50px;
+}
+.profile-name {
+  font-size: 20px;
+}
+.bio {
+  font-size: 16px;
+}
+.filter-heading {
+  font-size: 22px;
+}
+.filter-label {
+  font-size: 16px;
+}
+.filter-item {
+  list-style: none;
+}

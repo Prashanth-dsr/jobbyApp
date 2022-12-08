@@ -1,0 +1,33 @@
+.similar-jobs {
+  background-color: #272727;
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+  margin: 20px 40px 20px 40px;
+}
+.company-logo {
+  height: 60px;
+  margin-right: 20px;
+}
+.logo-title {
+  display: flex;
+  align-items: center;
+}
+.job-title {
+  font-size: 18px;
+}
+.rating {
+  font-size: 20px;
+}
+.location-emp {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: red;
+}
+.item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}

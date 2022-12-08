@@ -1,0 +1,9 @@
+.search {
+  background-color: black;
+  border-radius: 3px;
+  border: solid 1px #64748b;
+  margin-left: 40px;
+}
+.jobs-list {
+  list-style: none;
+}
